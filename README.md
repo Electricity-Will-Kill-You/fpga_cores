@@ -1,1 +1,1 @@
-# fpga_video
+# fpga_cores
